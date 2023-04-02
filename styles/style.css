@@ -1,0 +1,46 @@
+﻿body
+{
+	background-color:#4e2d79;
+	text-align:center;
+	color:white;
+	font-family: 'Cardo', serif;
+}
+#header
+{
+	background-color:black;
+	padding: 70px;
+	margin: 0 0 100px 0;
+}
+h1
+{
+	font-size: 4.5rem;
+
+}
+
+#footer
+{
+	background-color:black;
+	margin: 150px 0 0 0;
+	padding: 60px;
+}
+img
+{
+	width: 10%;
+}
+
+.goButton
+{
+	margin: 100px 0 0 0;
+}
+.neonText {
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #0fa,
+    0 0 82px #0fa,
+    0 0 92px #0fa,
+    0 0 102px #0fa,
+    0 0 151px #0fa;
+}
